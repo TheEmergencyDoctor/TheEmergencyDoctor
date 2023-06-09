@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheEmergencyDoctor
-- 🌱 I’m currently learning softwear Engineer
+- 🌱 I’m currently learning software Engineering
 - 💞️ I’m looking to collaborate on sources of learning
 - 📫 How to reach me about that
 
